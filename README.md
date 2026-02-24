@@ -40,26 +40,26 @@ bulabilirsiniz.
 
 ## 📈 GitHub İstatistiklerim
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakural&show_icons=true&theme=tokyonight)
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkurall&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakural&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkurall&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mustafakural&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mkurall&theme=tokyonight)
 
 ---
 
 ## 🌐 Sosyal Medya & İletişim
 
 <p align="left">
-<a href="https://linkedin.com/in/LINKINIZ" target="_blank">
+<a href="https://linkedin.com/in/mkurall" target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 
-<a href="https://youtube.com/@KANALINIZ" target="_blank">
+<a href="https://youtube.com/@mkurall" target="_blank">
 <img src="https://img.icons8.com/color/48/youtube-play.png" width="40"/>
 </a>
 
-<a href="https://instagram.com/KULLANICIADINIZ" target="_blank">
+<a href="https://instagram.com/kurall.m" target="_blank">
 <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
 </a>
 
